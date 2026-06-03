@@ -109,7 +109,7 @@ class Sridhar:
 
 <div align="center">
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=Tsridhar9212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Tsridhar9212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C))
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tsridhar9212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
